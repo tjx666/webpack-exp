@@ -1,0 +1,10 @@
+{
+  "name": "react-refresh",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "webpack serve --open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
